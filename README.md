@@ -1,12 +1,6 @@
 <h1 align="center">Hey, I'm Sanyam Nandal 👋</h1>
 
-<p align="center">
-  <b>BTech CSE-AI · GL Bajaj Institute of Technology & Management</b><br/>
-  Building <a href="https://github.com/sanyamnandal56-netizen/Vega"><b>Vega</b></a> — a voice-first AI life assistant for Indian students<br/>
-  <i>Full-stack · AI/ML · Mobile · Blockchain</i>
-</p>
 
----
 
 ## 👨‍💻 About Me
 
