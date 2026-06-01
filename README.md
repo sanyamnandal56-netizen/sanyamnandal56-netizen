@@ -6,9 +6,16 @@
   <i>Full-stack · AI/ML · Mobile · Blockchain</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sanyamnandal56-netizen"><img src="https://komarev.com/ghpvc/?username=sanyamnandal56-netizen&style=flat-square&color=0e75b6" alt="profile views"/></a>
-</p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing **BTech in CSE-AI** at GL Bajaj Institute of Technology & Management
+- 🚀 Co-founder & Frontend Lead at **Vega** — building a voice-first AI life assistant for Indian students
+- 🧠 Deep interest in **AI/ML, computer vision, multi-agent systems, and mobile development**
+- 🛠 I prefer understanding things from first principles — currently learning ML fundamentals alongside shipping real products
+- 🌍 Based in **India**, building for the next generation of Indian students and freshers
+- 📬 Reach me at **sanyamnandal56@gmail.com**
 
 ---
 
@@ -50,12 +57,6 @@ A mobile app for Indian students (18–24) that handles career, fitness, diet, g
 
 ---
 
-### Drishti — Real-Time Navigation for the Visually Impaired
-YOLOv8-nano powered object detection with Web Audio spatial alerts and offline OpenStreetMap routing, designed to run on low-end hardware.
-`YOLOv8` `OpenCV` `Python` `Web Audio API`
-
----
-
 ### HireChain — Blockchain Hiring Platform
 Decentralized recruitment platform with Solidity smart contracts, Claude Vision agents for document verification, and a React frontend backed by FastAPI.
 `Solidity` `FastAPI` `Claude API` `React`
@@ -78,24 +79,9 @@ Decentralized recruitment platform with Solidity smart contracts, Claude Vision 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanyam-nandal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyam-nandal-4466051b0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sanyamnandal56@gmail.com)
 
 ---
 
 <p align="center"><i>Currently building Vega full-time alongside my CSE-AI degree.</i></p>
-
-<!--
-**sanyamnandal56-netizen/sanyamnandal56-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
